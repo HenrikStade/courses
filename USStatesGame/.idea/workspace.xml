@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41da5ad1-1359-4c93-ba4b-5ffff8595715" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Day25/.idea/Day25.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/2018_Central_Park_Squirrel_Census_-_Squirrel_Data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/new_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Day25/weather_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/USStatesGame.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/50_states.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blank_states_img.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="41da5ad1-1359-4c93-ba4b-5ffff8595715" name="Changes" comment="Day 25 half finished">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,6 +59,14 @@
       <option name="presentableId" value="Default" />
       <updated>1656352400596</updated>
     </task>
+    <task id="LOCAL-00001" summary="Day 25 half finished">
+      <created>1656357836159</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656357836159</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -83,5 +79,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Day 25 half finished" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 25 half finished" />
   </component>
 </project>
