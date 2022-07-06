@@ -5,7 +5,7 @@ will_rain = False
 
 # parameters = {
 #     "q": "Stenlille,DK",
-#     "appid": "2106a94f4be2c6a7a62c62e08d891f92"
+#     "appid": ""
 # }
 #
 # response = requests.get(url="https://api.openweathermap.org/data/2.5/weather", params=parameters)
