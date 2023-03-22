@@ -4,7 +4,7 @@ import random
 import smtplib
 
 my_email = "springtiden@gmail.com"
-my_password = "ueLMR98j7939"
+my_password = ""
 
 with smtplib.SMTP("smtp.gmail.com") as connection:
     connection.starttls()
